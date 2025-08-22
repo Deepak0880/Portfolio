@@ -21,7 +21,7 @@ const projects: Project[] = [
     techStack: ["React", "Node.js", "MongoDB", "OpenAI", "Express", "Tailwind CSS"],
     liveDemo: "https://main.dvd0rw6dollk.amplifyapp.com",
     github: "https://github.com/Deepak0880/RECRUITIFY",
-    image: "/src/Image/Screenshot 2025-08-22 224157.png"
+    image: "/Screenshot 2.png"
   },
   {
     id: 2,
@@ -39,7 +39,7 @@ const projects: Project[] = [
     techStack: ["Html", "Css", "JavaScript"],
     liveDemo: "https://guessgame-lovat.vercel.app/",
     github: "https://github.com/Deepak0880/Guess-The-Game",
-    image: "/src/Image/Screenshot 2025-08-22 235158.png"
+    image: "/Screenshot 3.png"
   },
   {
     id: 4,
@@ -48,7 +48,7 @@ const projects: Project[] = [
     techStack: ["React", "Tailwind CSS", "TypeScript"],
     liveDemo: "#",
     github: "https://github.com/Deepak0880/Portfolio",
-    image: "/src/Image/Screenshot 2025-08-22 225344.png"
+    image: "/Screenshot 1.png"
   }
 ];
 

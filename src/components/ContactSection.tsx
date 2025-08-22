@@ -29,8 +29,8 @@ const ContactSection: React.FC = () => {
     try {
       // Send email using EmailJS
       const result = await emailjs.send(
-        emailJSConfig.serviceId,
-        emailJSConfig.templateId,
+        emailJSConfig.serviceID,
+        emailJSConfig.templateID,
         {
           from_name: formData.name,
           from_email: formData.email,
