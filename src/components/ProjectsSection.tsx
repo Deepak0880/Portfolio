@@ -46,7 +46,7 @@ const projects: Project[] = [
     title: "Portfolio Website",
     description: "A responsive portfolio website showcasing skills and projects.",
     techStack: ["React", "Tailwind CSS", "TypeScript"],
-    liveDemo: "#",
+    liveDemo: "https://portfoliodeepak-opal.vercel.app/",
     github: "https://github.com/Deepak0880/Portfolio",
     image: "/Screenshot 1.png"
   }
