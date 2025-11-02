@@ -19,16 +19,16 @@ const projects: Project[] = [
     title: "Recruitify - Job Portal",
     description: "A Ai Powered job portal website that allows users to post jobs and apply for jobs.",
     techStack: ["React", "Node.js", "MongoDB", "OpenAI", "Express", "Tailwind CSS"],
-    liveDemo: "https://main.dvd0rw6dollk.amplifyapp.com",
+    liveDemo: "https://recruitify-pi.vercel.app/",
     github: "https://github.com/Deepak0880/RECRUITIFY",
     image: "/Screenshot 2.png"
   },
   {
     id: 2,
-    title: "UniMeet",
-    description: "A productivity tool to organize tasks with drag-and-drop functionality.",
+    title: "BitBranch",
+    description: "A productivity tool to organize  with drag-and-drop functionality.",
     techStack: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
-    liveDemo: "#",
+    liveDemo: "https://bit-branch.vercel.app/",
     github: "https://github.com/Deepak0880/Unimeet",
     image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&auto=format&fit=crop&q=80"
   },
