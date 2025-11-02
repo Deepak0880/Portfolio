@@ -26,11 +26,11 @@ const projects: Project[] = [
   {
     id: 2,
     title: "BitBranch",
-    description: "A productivity tool to organize  with drag-and-drop functionality.",
+    description: "A productivity tool to organize with project drag-and-drop functionality.",
     techStack: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
     liveDemo: "https://bit-branch.vercel.app/",
-    github: "https://github.com/Deepak0880/Unimeet",
-    image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&auto=format&fit=crop&q=80"
+    github: "https://github.com/Deepak0880/BitBranch",
+    image: "/Screenshot 2025-11-02 234138.png"
   },
   {
     id: 3,
